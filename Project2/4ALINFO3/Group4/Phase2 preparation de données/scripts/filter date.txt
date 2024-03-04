@@ -1,0 +1,6 @@
+//conditional split in SSIS
+
+DELETE FROM [dbo].[Crash]
+      WHERE LEN(CRASH_DATE) != 10
+
+

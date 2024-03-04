@@ -1,0 +1,86 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.ensemble import RandomForestRegressor
+
+# Load the dataset
+data = pd.read_excel('C:/Users/ssghaier/Documents/.machine learning/Motor_Vehicle_Collisions_-_Crashes_20240131_cleaned.xlsx')
+
+# Convert 'CRASH DATE' column to datetime format
+data['CRASH DATE'] = pd.to_datetime(data['CRASH DATE'], format='%m/%d/%Y')
+
+# Extract additional features from the date
+data['DAY_OF_WEEK'] = data['CRASH DATE'].dt.dayofweek
+data['MONTH'] = data['CRASH DATE'].dt.month
+data['YEAR'] = data['CRASH DATE'].dt.year
+
+# Group data by date and count the number of accidents on each date
+accidents_per_date = data.groupby('CRASH DATE').size().reset_index(name='ACCIDENTS_COUNT')
+
+# Define features (X) and target variable (y)
+X = accidents_per_date[['CRASH DATE']]  # Only the date itself
+X['DAY_OF_WEEK'] = X['CRASH DATE'].dt.dayofweek
+X['MONTH'] = X['CRASH DATE'].dt.month
+X['YEAR'] = X['CRASH DATE'].dt.year
+X = X.drop(columns=['CRASH DATE'])  # Drop the original date column
+y = accidents_per_date['ACCIDENTS_COUNT']
+
+# Initialize Random Forest Regressor
+rf_regressor = RandomForestRegressor(n_estimators=100, random_state=42)
+
+# Train the model
+rf_regressor.fit(X, y)
+
+# Prepare input data for prediction (March 16, 2016)
+date_to_predict = pd.to_datetime('2026-03-16')  # March 16, 2016
+input_data = pd.DataFrame({'DAY_OF_WEEK': [date_to_predict.dayofweek],
+                           'MONTH': [date_to_predict.month],
+                           'YEAR': [date_to_predict.year]})
+
+# Make prediction
+predicted_accidents = rf_regressor.predict(input_data)
+
+# Round the predicted value to the nearest integer
+predicted_accidents_integer = int(round(predicted_accidents[0]))
+
+print("Predicted number of accidents on March 16, 2026:", predicted_accidents_integer)
+
+# Plot histogram
+plt.hist(accidents_per_date['ACCIDENTS_COUNT'], bins=30, color='skyblue', edgecolor='black')
+plt.xlabel('Number of Accidents')
+plt.ylabel('Frequency')
+plt.title('Distribution of Number of Accidents')
+plt.show()
+
+# Plot line graph
+plt.plot(accidents_per_date['CRASH DATE'], accidents_per_date['ACCIDENTS_COUNT'], marker='o', linestyle='-')
+plt.xlabel('Date')
+plt.ylabel('Number of Accidents')
+plt.title('Number of Accidents Over Time')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+# Plot bar graph by month
+accidents_per_date['MONTH'] = accidents_per_date['CRASH DATE'].dt.month
+
+sns.barplot(x='MONTH', y='ACCIDENTS_COUNT', data=accidents_per_date, palette='viridis')
+plt.xlabel('Month')
+plt.ylabel('Number of Accidents')
+plt.title('Number of Accidents by Month')
+plt.show()
+
+# Plot bar graph by day of the week
+accidents_per_date['DAY_OF_WEEK'] = accidents_per_date['CRASH DATE'].dt.dayofweek
+sns.barplot(x='DAY_OF_WEEK', y='ACCIDENTS_COUNT', data=accidents_per_date, palette='magma')
+plt.xlabel('Day of the Week')
+plt.ylabel('Number of Accidents')
+plt.title('Number of Accidents by Day of the Week')
+plt.show()
+
+# Plot scatter plot
+plt.scatter(x='DAY_OF_WEEK', y='ACCIDENTS_COUNT', data=accidents_per_date, color='green')
+plt.xlabel('Day of the Week')
+plt.ylabel('Number of Accidents')
+plt.title('Scatter Plot of Number of Accidents by Day of the Week')
+plt.show()

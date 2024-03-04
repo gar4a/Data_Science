@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Accidents", "Accidents\Accidents.dtproj", "{D04A0974-6E3C-4629-8A2E-4F84B3DE9B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04A0974-6E3C-4629-8A2E-4F84B3DE9B76}.Development|Default.ActiveCfg = Development
+		{D04A0974-6E3C-4629-8A2E-4F84B3DE9B76}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

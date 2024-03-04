@@ -1,0 +1,453 @@
+job_url,site,title,company,company_url,location,job_type,date_posted,interval,min_amount,max_amount,currency,is_remote,num_urgent_words,benefits,emails,description
+https://www.indeed.com/viewjob?jk=27e306c99241b0d5,indeed,Cybersecurity Analyst,MMGY Global,https://www.indeed.com/cmp/Mmgy-Global,"Overland Park, KS, USA",fulltime,2024-02-13,,,,,True,1.0,,,"<div><div>At <b>MMGY,</b> we believe nothing shapes your view of the world like travel. So every day, we share our client&rsquo;s stories from a perspective that inspires people to see the world differently. Our personalized service and strategy connect media, consumers and influencers across the globe, taking people to new places and changing their view for the better. At MMGY we inspire people to go places.</div><div>
+</div><div>
+We have an immediate opening for a <b>Cybersecurity Analyst</b> in our <b>Overland Park, KS </b>office. Primary responsibilities include working in collaboration with the Company&rsquo;s Network Engineers to review the configuration of the computer networks to identify any potential vulnerabilities, install the necessary software in order to protect it from unauthorized access, and document detections so that future breaches can be mitigated efficiently. The Cybersecurity Analyst will defend the Company&rsquo;s computer hardware, software and other systems from theft, loss and other cyberattacks.</div><p></p><div><b><br>
+Duties &amp; Responsibilities</b></div><ul><li><div>
+Guard all company data from both internal and external threats by designing broad defenses against would-be intruders</div></li><li><div>
+Take the lead on day-to-day monitoring for unusual activities, implement defensive protocols, and report incidents</div></li><li><div>
+Test systems for potential vulnerabilities</div></li><li><div>
+Collaborate with other members of the Information Technology team to develop new protocols, layers of protection, and other proactive and defensive systems that stay one step ahead of cyber criminals</div></li><li><div>
+Develop and maintain security guidelines, procedures, standards and controls documentation</div></li><li><div>
+Maintain a working knowledge of current cybercrime tactics</div></li><li><div>
+Constantly monitor for attacks and run appropriate defensive protocols if breaches occur</div></li><li><div>
+Implement security improvements by assessing the current situation; evaluating trends; anticipating requirements.</div></li></ul><p></p><div><b><br>
+Required Skills &amp; Experience</b></div><ul><li><div>
+2 - 3 years experience in Cybersecurity at a similar-sized business</div></li><li><div>
+Bachelor's degree in Computer Science or Cybersecurity or equivalent through a combination of education and work experience</div></li><li><div>
+Strong, fundamental knowledge of IT, including hardware, software, and networks</div></li><li><div>
+A meticulous eye for detail and ability to multitask in a fast-paced environment</div></li><li><div>
+The ability to identify and spotlight vulnerabilities for on-premises and remote networks, correct problems, and prevent security breaches</div></li><li><div>
+Responsibility and conscientiousness, including proper management of patches to defray business impact while keeping security protocols up-to-date</div></li><li><div>
+The ability to think critically and innovatively about the security solutions that can keep data safe while still allowing the business to flourish</div></li><li><div>
+Desire to self-educate on the ever-changing landscape of cyber hacking tactics</div></li><li><div>
+Knowledge of penetration testing, network security, and the techniques used to expose and correct security flaws</div></li><li><div>
+Advertising Agency experience desired but not required</div></li></ul><div>
+</div><div><b>
+Applicants for employment in the U.S. must possess work authorization which does not require sponsorship by the employer for a visa. MMGY Global is an Equal Opportunity Employer.</b></div><p>
+Who Are We? We&rsquo;re a travel-obsessed collective of more than 600 people across the country and around the globe. And when we say we inspire people to go places, we mean ALL people. That&rsquo;s why we&rsquo;re focused on nurturing a workforce that&rsquo;s as diverse as the places we visit &mdash; welcoming candidates of all ages, genders and gender identities; ethnicities and religions; people of color; LGBTQIA+ people and their allies; working parents; veterans; and those with disabilities.</p></div><p></p>"
+https://www.indeed.com/viewjob?jk=ba6fcb6432e9a821,indeed,Security Analyst,Oracle,https://www.indeed.com/cmp/Oracle,"Austin, TX, USA",fulltime,2024-02-08,,,,,True,0.0,,,"<div><p>Responsibilities:
+</p><p>&middot; Monitoring, triaging, processing, and escalating security events received from multiple services and log sources
+</p><p>&middot; Initial collection of evidence related to escalated security events
+</p><p>&middot; Collection of evidence related to compliance audits
+</p><p>&middot; Validation and regular review of processes and procedures
+</p><p>&middot; Identification, escalation, and follow up on of false positives
+</p><p>&middot; Routine audits of ACL and Security Lists
+</p><p>&middot; Process initial mitigation and containment procedures
+</p><p>&middot; Coordinate with service and operations teams to validate security events and anomalous activity
+</p><p>&middot; Identify and recommend security event suppression, adjustment, modification, and tuning based on daily monitoring
+</p><p>&middot; Document initial triage and escalation of security events and alerts
+</p><p>&middot; Provide daily reports of security events and alerts
+</p><p>&middot; Determine and report on possible cause of security events and alerts
+</p><p>&middot; Operate security tools for continual monitoring and analysis of system/network activity to identify malicious activity
+</p><p>&middot; Assist in the construction of security alerts and processes based on knowledge gained from daily monitoring and triage
+</p><p>&middot; Notify designated managers, and responders of suspected cyber incidents including the event's history, status, and potential impact
+</p><p>&middot; Monitor external data sources to maintain basic knowledge of threat conditions
+</p><p>&middot; Recognize a possible security violation and take appropriate action to escalate the incident, as required
+</p><p>Knowledge
+</p><p>&middot; Basic understanding of:
+</p><p>&middot; Computer networking concepts and protocols, and network security methodologies
+</p><p>&middot; Host/network access control mechanisms
+</p><p>&middot; Intrusion detection methodologies and techniques
+</p><p>&middot; How traffic flows across the network (TCP/IP, OSI, ITIL)
+</p><p>&middot; System and application security threats and vulnerabilities
+</p><p>&middot; Types of network communications (LAN, WAN, MAN, etc)
+</p><p>&middot; File extensions (.zip, .sh, .pcap, .bat, .dll, .py, etc)
+</p><p>&middot; Interpreted and compiled computer languages
+</p><p>&middot; Common attack vectors
+</p><p>&middot; Attack classes (passive, active, insider, distributed, etc)
+</p><p>&middot; Incident response and handling methodologies
+</p><p>&middot; Authentication, authorization, and access control methods
+</p><p>&middot; Information technology (IT) security principles and methods
+</p><p>&middot; Network traffic analysis methods
+</p><p>&middot; Operating systems
+</p><p>&middot; Cyber attackers
+</p><p>&middot; Defense-in-depth principles
+</p><p>&middot; System administration, network, and operating system hardening techniques
+</p><p>&middot; Cyber attack stages
+</p><p>&middot; Network security architecture concepts
+</p><p>&middot; Windows/Unix ports and services
+</p><p>&middot; Operating system command-line tools
+</p><p>&middot; Network protocols
+</p><p>&middot; Running knowledge of cyber threats and vulnerabilities
+</p><p>&middot; Understanding security events related to:
+</p><p>&middot; Operating system (Linux and Windows) logs
+</p><p>&middot; Database logs
+</p><p>&middot; VPN logs
+</p><p>&middot; Knowledge of adversarial tactics, techniques, and procedures
+</p><p>&middot; Understanding the use of the following:
+</p><p>&middot; Network tools (ping, traceroute, nmap, etc)
+</p><p>&middot; Host base tools (Tanium, basic Linux and Windows native tools)
+</p><p>&middot; SIEM (Splunk, ELK, Lumberjack, Splunk Enterprise Security, etc)
+</p><p>&middot; Understanding of cybersecurity and privacy principles and related organizational requirements
+</p><p>Skills
+</p><p>&middot; Detecting host and network based intrusions via intrusion detection technologies
+</p><p>&middot; Using protocol analyzers
+</p><p>&middot; Recognizing and categorizing types of vulnerabilities and associated attacks
+</p><p>&middot; Reading and interpreting signatures
+</p><p>&middot; Conducting trend analysis
+</p><p>&middot; Evaluating information for reliability, validity, and relevance
+</p><p>&middot; Identifying cyber threats which may jeopardize organization and/or partner interests
+</p><p>&middot; Preparing and presenting briefings
+</p><p>&middot; Providing analysis to aid writing phased after action reports
+</p><p>&middot; Using Boolean operators to construct simple and complex queries
+</p><p>&middot; Using multiple analytic tools, databases, and techniques
+</p><p>&middot; Using multiple search engines (e.g., Google, Yahoo, LexisNexis, DataStar) and tools in conducting open-source searches
+</p><p>&middot; Utilizing virtual collaborative workspaces and/or tools (Zoom, JIRA, Confluence, Oradocs, Slack, etc)
+</p><p>&middot; Performing packet-level analysis
+</p><p>&middot; Utilizing a SIEM to detect, research, and perform initial triage of security events
+</p><p>&middot; Exercising good judgement in escalating security events
+</p><p>Abilities
+</p><p>&middot; Think critically
+</p><p>&middot; Ability to think like threat actors
+</p><p>&middot; Apply techniques for detecting host and network-based intrusions using intrusion detection technologies
+</p><p>&middot; Interpret the information collected by network tools
+</p><p>&middot; Recommend analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists
+</p><p>&middot; Effectively collaborate with virtual and remote teams
+</p><p>&middot; Evaluate information for reliability, validity, and relevance
+</p><p>&middot; Exercise judgment when policies are not well-defined
+</p><p>&middot; Function effectively in a dynamic, fast-paced environment
+</p><p>&middot; Ability to function in a collaborative environment, seeking continuous consultation with other analysts and experts, both internal and external to the organization, to leverage analytical and technical expertise
+</p><p>&middot; Recognize and mitigate cognitive biases which may affect analysis.
+</p><p>Other Requirements and Expectations
+</p><p>&middot; Other tasks and duties as assigned
+</p><p>&middot; Work effectively within a remote team including effective, constant, and collaborative communication with all members of the NSGBU SOC</p></div><br><div></div>"
+https://www.indeed.com/viewjob?jk=a766d66a906f2897,indeed,Senior Information Technology Specialist,"Information Technology Services, Office of",https://www.indeed.com/cmp/Statejobsny,"NY, USA",fulltime,2024-02-08,yearly,90806.0,114444.0,USD,False,0.0,,,"<div></div><div><div><div>Bachelor&rsquo;s degree* with at least 15 credit hours in cyber security, information assurance, or information technology; and three years of information technology experience, including two years of information security or information assurance experience**.<br>
+<br>
+<ul><li>Substitution: bachelor's degree candidates without at least 15 course credits in cyber security, information assurance, or information technology require an additional year of general information technology experience to qualify. Appropriate information security or information assurance experience may substitute for the bachelor's degree on a year-for-year basis; an associate's degree requires an additional two years of general
+</li></ul>information technology experience.
+<br>
+<br>
+**Experience solely in information security or information assurance may substitute for the general information technology experience.<br>
+<br>
+Preferred Qualifications:<br>
+<ul><li>Demonstrated critical thinking, problem solving and analytical skills.</li><li>Excellent oral and written communication skills including the ability to clearly articulate information technology and information security concepts to a varied audience to facilitate wide understanding.</li><li>Demonstrated skill in facilitating meetings, listening, and negotiating between multiple stakeholders to drive results.</li><li>Applicable information Security or specialized information technology certificate(s).
+</li><li>Working knowledge of information technology design &amp; Architecture including ensuring cybersecurity components and regulatory compliance.</li></ul></div>
+</div><div></div><div><div><b>Duties Description</b></div><div>Under the direction of the Information Security Officer for ITS ISO Support, and the Senior Information Security Officer for ITS ISO Support within the Chief Information Security Office\Information Security Engineering Bureau, the incumbent will support the security needs of ITS and its enterprise services. The position will provide direction and support to subordinate Information Security Analysts (ISAs) within CISO to enable effective delivery of security services to CTO and to support other teams within CISO. The incumbent will act as a member of the Information Security Engineering team and will assist all NYS ITS teams with review of day-to-day information security requests and tickets, with information security reviews, and with other tasks as part of leading the ISO team for NYS ITS.
+<br>
+<br>
+The position requires an incumbent to act with a great deal of independence in alignment with CTO and upper-level CISO management strategic direction. The position requires technical expertise in a broad range of areas to permit working directly with technical teams throughout ITS. The position requires communicating orally and in writing with various individuals including management, users, vendors, and other IT staff. The incumbent must be able to communicate clearly with subordinate staff regarding work priorities and performance. The incumbent will have to work with ITS teams and upper-level agency management to resolve technically complex and politically sensitive issues under pressure.<br>
+<br>
+Duties include, but are not limited to:<br>
+<ul><li>Conduct detailed technical security reviews of systems and architecture.</li><li>Identify risks in new and existing system design and architecture.</li><li>Participate in workgroups to develop solutions and standards for IT systems.</li><li>Provide recommendations for secure/hardened configurations of servers, platforms, networks, and other IT systems.</li><li>Manage and resolve security threats to agency information systems.</li><li>Serve as information security expert and evaluate systems and contracts for alignment with agency and State information security policies.</li><li>Perform the full range of supervisory responsibilities.</li><li>Monitor and maintain awareness of information security industry trends, tools and techniques.</li><li>Maintain an adequate level of current knowledge and proficiency in information security through annual Continuing Professional Education (CPE) credits directly related to information security.</li><li>Assist CISO management with overall management of division activities as needed.</li><li>Perform the full range of supervisory responsibilities and additional duties as required.</li></ul></div>
+</div><div></div><div><div><b>Additional Comments</b></div><div>Background check and fingerprinting are required.<br>
+<br>
+This position is pending DOB approval.<br>
+<br>
+Additional details on work shift will be discussed at time of interview.<br>
+<br>
+<ul><li>Please note, this position may be filled in either Albany, NYC, or other locations statewide.</li></ul><br>
+Benefits of Working for NYS<br>
+Generous benefits package, worth 65% of salary, including:<br>
+<ul><li>Holiday &amp; Paid Time Off</li><li>Thirteen (13) paid holidays annually</li><li>Up to thirteen (13) days of paid vacation leave annually</li><li>Up to five (5) days of paid personal leave annually</li><li>Up to thirteen (13) days of paid sick leave annually for PEF</li><li>Up to three (3) days of professional leave annually to participate in professional development</li></ul><br>
+Health Care Benefits<br>
+<ul><li>Eligible employees and dependents can pick from a variety of affordable health insurance programs</li><li>Family dental and vision benefits at no additional cost</li></ul><br>
+Additional Benefits<br>
+<ul><li>New York State Employees&rsquo; Retirement System (ERS) Membership</li><li>NYS Deferred Compensation</li><li>Access to NY 529 and NY ABLE College Savings Programs, as well as U.S. Savings Bonds</li><li>Public Service Loan Forgiveness (PSLF)</li><li>Up to 50% telecommuting</li><li>And many more.</li></ul></div></div></div><p></p>"
+https://www.indeed.com/viewjob?jk=28c99e10241d44a9,indeed,Security Analyst,Thompson Coburn LLP,https://www.indeed.com/cmp/Thompson-Coburn-LLP,"Remote, USA",fulltime,2024-01-26,yearly,,,USD,True,0.0,,,"<p>Thompson Coburn, a large full-service law firm with offices in seven (7) cities across the U.S., is in search of a full-time exempt Security Analyst to join its St. Louis office. With over 400 attorneys and experience in 50 areas of law, Thompson Coburn is regularly recognized for providing clients with outstanding value and service. Driven by our core values of integrity, innovation and diversity, we collaborate and work in a welcoming, fast-paced, and inclusive environment.</p><p>Under the leadership of the Manager of Information Security, this position is responsible for day-to-day security operations and interfaces directly with the Firm&rsquo;s clients, Managed Security Service Providers (MSSPs), and staff personnel to protect the Firm from security threats and cyber-hacking. To be successful in this position, you must have working knowledge of industry security standards, and at least five (5) years&rsquo; experience operating as a security resource in an enterprise environment or equivalent. The person selected for this position must be accustomed to working in a fast paced environment. This exempt position is eligible for a fully remote work schedule.</p><p>Key Responsibilities:</p><ul><li>Engages with the Firm&rsquo;s outsourced MSSP (Manage Security Service Provider) around security initiatives.</li><li>Ongoing monitoring, alerting, remediation, and escalation of security events by the Security Operations Center (SOC).</li><li>Investigates and reports on security incidents.</li><li>Investigates and remediates email transportation and/or phishing events.</li><li>Investigates alerts and conducts forensic analysis, leveraging SOC MSP data.</li><li>Monitors logs and network patterns, integrating insights from the SOC MSP.</li></ul><p>Experience and Education Qualifications;</p><p>Required</p><ul><li>Bachelor's degree with a major in computer information systems or equivalent degree/experience.</li><li>At least five years' experience operating as a security resource in an enterprise environment or equivalent.</li><li>Working knowledge of industry security standards.</li></ul><p>Preferred</p><ul><li>MS Technology Associate Infrastructure certification and/or MS Certified Solutions Associate.</li><li>Experience working within the ITIL/ITSM framework.</li><li>Direct experience with security tools and solutions; PKI, AV, IPS/IDS, vulnerability and penetration testing, OS Hardening, VPN, Content Filtering, Proxies etc.</li><li>Relevant security credentials (e.g.; CompTIA Security +, CySA+) required after hire.</li></ul><p>Thompson Coburn LLP is a large, full service, multi-state firm with offices in Chicago, Dallas, Los Angeles, New York, St. Louis, Southern Illinois, and Washington D.C. At Thompson Coburn, our behavior and the expectations we have of ourselves are guided by the values that we hold in the highest regard: integrity, a passion for excellence, a focus on serving the client, a value of diversity, innovation, creativity, trust, and loyalty. Within the Firm, we value each other as people and colleagues. In addition to the exceptional working environment and a competitive salary, Thompson Coburn provides the following benefit options to qualifying employees:</p><p>&middot; Medical Insurance</p><p>&middot; Vision Insurance</p><p>&middot; Dental Insurance</p><p>&middot; Life Insurance &amp; ADD policies</p><p>&middot; Short &amp; Long Term Disability Insurance</p><p>&middot; Paid Parental Leave</p><p>&middot; 401(k) Profit Sharing plans</p><p>&middot; Parking/Transportation Stipend</p><p>&middot; Section 125 Plan (Pre-tax premiums, dependent care and medical reimbursement)</p><p>&middot; Paid Holidays</p><p>&middot; Paid Vacation Time</p><p>&middot; Employee Assistance Program (EAP)</p><p>&middot; Employee Wellness Program</p><p>&middot; Tuition Reimbursement</p><p>&middot; College Savings Plan Deductions (529 Plans)</p><p>&middot; Long Term Care</p><p>Equal Opportunity Employer M/F/D/V</p><p>Job Type: Full-time</p><p>Pay: From $100,000.00 per year</p><p>People with a criminal record are encouraged to apply</p><p>Work Location: Remote</p>"
+https://www.indeed.com/viewjob?jk=4a7ecf43932f3600,indeed,Cybersecurity Analyst,Avint LLC,https://www.indeed.com/cmp/Avint-LLC,"Remote, USA",,2024-01-25,,,,,True,0.0,,,"<div><div><b>Description</b></div>
+<div>Avint LLC is seeking a skilled and detail-oriented <b>Cybersecurity Analyst</b>, to join our dynamic team. Your responsibilities will include developing and promoting information security best practices, creating compliant cybersecurity policies, and contributing to the crafting of essential cybersecurity documentation. Additionally, you will be involved in the detection, assessment, and mitigation of system vulnerabilities.</div>
+<div><b>Position Responsibilities:</b></div>
+<ul><li>Develop and advocate information security best practices.</li>
+<li>Create compliant cybersecurity policies aligned with industry standards and client needs.</li>
+<li>Aid in crafting cybersecurity documentation, including integration guides, SSPs, POA&amp;Ms, etc.</li>
+<li>Detect, assess, and mitigate system vulnerabilities.</li>
+<li>Create Security Assessment Reports identifying risks and mitigating actions</li>
+<li>Identify and report on various risks through vulnerability and compliance scanning tools</li>
+<li>Review system artifacts and interview system resources to confirm compliance with federal mandates</li>
+</ul><div><b>Requirements</b></div>
+<div><b>Qualifications:</b></div>
+<ul><li>Associate degree or 2 years of equivalent work experience</li>
+<li>Minimum 2 years&rsquo; experience</li>
+<li>Strong understanding of information security principles and best practices.</li>
+<li>Knowledge of cybersecurity frameworks, standards, and regulations (e.g., NIST, ISO, GDPR).</li>
+<li>Familiarity with tools and methodologies for vulnerability assessment and risk management.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Ability to work collaboratively in a team environment.</li>
+<li>Relevant certifications (e.g., CompTIA Security+, Certified Information Systems Security Professional (CISSP), etc.)</li>
+</ul><div><b>Benefits</b></div>
+<div>Joining Avint is a win-win proposition! You will feel the personal touch of a small business and receive BIG business benefits. From competitive salaries, full health, and generous PTO and Federal Holidays. Additionally, we encourage every Avint employee to further their professional development. To assist you in achieving your goals, we offer reimbursement for courses, exams, and tuition. Interested in a class, conference, program, or degree? Avint will invest in YOU and your professional development!</div>
+<div><i>Avint is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity and Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.</i></div></div>"
+https://www.indeed.com/viewjob?jk=d9d763efc761f830,indeed,Security Analyst,"Crossover Health Management Services, Inc.",https://www.indeed.com/cmp/Crossover-Health,"San Clemente, CA, USA",fulltime,2024-01-24,yearly,89640.0,103085.0,USD,True,0.0,,careers@crossoverhealth.com,"<div><p><b>About Crossover Health</b></p><p></p><p>
+Crossover Health is creating the future of health as it should be. A national, team-based medical group with a focus on wellbeing and prevention that extends beyond traditional sick care, the company delivers an entirely new model of healthcare&mdash;Primary Health&mdash;built on the foundation of trusted relationships, an interdisciplinary care team approach, and outcomes-based payment. Crossover&rsquo;s Primary Health model integrates primary care, physical medicine, mental health, health coaching, care navigation and more, and delivers care in surround-sound&mdash;in-person, virtually and via asynchronous messaging. Together we are building a community of members that embraces healthcare as a proactive part of their lifestyle.</p><p></p><p><b>
+Job Summary</b></p><br>
+This role is critical to Crossover&rsquo;s Security Operations. The ideal candidate will thrive in an environment where every day brings opportunities to learn new technologies, lead projects small and large, and implement integrations and systems. This role will be a mix of operational responsibilities (security monitoring, incident response, security awareness and access management) and systems work (endpoint security, vulnerability management and security tool management). We are constantly looking to improve our security controls and processes and this role will be pivotal in those efforts.<p></p><p><b>
+Job Responsibilities</b></p><ul><li><p>
+Detect and respond to security events and threats from alerting (Endpoint protection, SIEM, IDS, FIM, Phishing, etc.), escalations, and other sources</p></li><li><p>
+Lead complex investigations and conduct deep analysis of security incidents focused on rapid containment, remediation, and mitigation</p></li><li><p>
+Understand the threat landscape, emerging trends, and incorporate this into day-to-day security monitoring to drive continuous improvement</p></li><li><p>
+Provide high quality written and verbal reports as required</p></li><li><p>
+Conduct vulnerability scans and work with engineering to prioritize and remediate identified vulnerabilities within SLA windows</p></li><li><p>
+Proactively identify and work to address security gaps across the enterprise</p></li><li><p>
+Support compliance and customer audit requests such as SOC2</p></li><li><p>
+Provide technical guidance and security reviews to external departments on the development and implementation of new tools and processes</p></li><li><p>
+Performs other duties as assigned</p></li></ul><p></p><p><b>
+Required Qualifications</b></p><ul><li><p>
+2+ Years of experience in an Information Security role</p></li><li><p>
+Prior experience working as a SOC Analyst or Incident Responder</p></li><li><p>
+Familiarity with security monitoring tools including EDR, SIEM, IDS &amp; FIM solutions</p></li><li><p>
+Knowledge of industry standard scoring models such as CVSS</p></li><li><p>
+Proficient in analyzing and validating scan results, knowledge of OWASP Top 10 and SANS Top 25 and how to effectively remediate vulnerabilities associated with each</p></li><li><p>
+Effective verbal and written communication skills to speak across multiple audiences</p></li><li><p>
+Working knowledge of information security testing and assessment tools</p></li><li><p>
+Demonstrated excellence in organizing, prioritizing, and multitasking in a high paced environment</p></li><li><p>
+Continuously sought and embraced opportunities to build upon your skills and knowledge</p></li><li><p>
+Ability to work independently, as well as in a team environment</p></li><li><p>
+Strong organizational and problem solving skills</p></li><li><p>
+Available to work after hours and weekends as needed</p></li></ul><p></p><p><b>
+Preferred Qualifications</b></p><ul><li><p>
+Experience developing or providing content for Security Awareness Training</p></li><li><p>
+Experience reviewing, procuring and implementing security solutions and tools</p></li><li><p>
+Experience conducting security audits, compliance audits, or vendor reviews</p></li><li><p>
+Prior experience with HIPAA regulations and clinical environments</p></li><li><p>
+Experience working in a &ldquo;scale-up&rdquo; environment</p></li><li><p>
+Security related certifications, such as CISSP, GCIA, GCIH, and/or other professional certification</p></li></ul><p></p><p><b>
+Physical Job Requirements</b></p><ul><li><p>
+May require standing, walking and sitting for extended amounts of time.</p></li><li><p>
+Occasionally lift and carry items weighing up to 50 lbs.</p></li><li><p>
+Manual and finger dexterity and hand-eye coordination</p></li><li><p>
+Includes full range of body motion.</p></li><li><p>
+Requires corrected vision, hearing and speech within normal ranges. Must be able to effectively communicate with team members.</p></li></ul><p></p>
+The base pay range for this position is $89,640.00 to $103,085.00 per year. Pay range may vary depending on work location, applicable knowledge, skills, and experience. This position may be eligible for an annual bonus opportunity and comprehensive benefits package that includes Medical Insurance, Dental Insurance, Vision Insurance, Short- and Long-Term Disability, Life Insurance, Paid Time Off and 401K.<p></p><p>
+Crossover Health is committed to Equal Employment Opportunity regardless of race, color, national origin, gender, sexual orientation, age, religion, veteran status, disability, history of disability or perceived disability. If you need assistance or an accommodation due to a disability, you may email us at careers@crossoverhealth.com.</p><p></p><p><b>
+To all recruitment agencies</b>: We do not accept unsolicited agency resumes and are not responsible for any fees related to unsolicited resumes.</p><p></p>
+#LI-Remote</div>"
+https://www.indeed.com/viewjob?jk=3d125d7752f7ee80,indeed,Information Security Analyst,RadiantHire Solutions Inc.,https://www.indeed.com/cmp/Radianthire-Solutions-Inc.,"Pensacola, FL, USA",fulltime,2024-01-23,,,,,False,0.0,,,"<div><p><b>Information System Security Analyst - Senior II - SCA04</b></p><p><b>
+ON SITE ONLY</b></p><div>
+Must be a U.S. Citizen<br>
+<ul><li>Must have active/current Top-Secret clearance with the ability to obtain a TS/SCI.</li><li>Must be able to receive DHS suitability prior to starting employment</li></ul></div><div>
+Our client is looking for an experienced and technically proficient Cybersecurity Incident Responder who can support our customer in the detection, response, mitigation, investigation, and reporting of cyber threats affecting the client networks. This large mission critical development and sustainment program designs, builds, delivers, and operates a network operations environment introducing new cyber capabilities to address emerging threats.<br>
+<br>
+This position requires shift work including nights/weekends<br>
+<br>
+<b>Responsibilities include</b>:<br>
+<ul><li>Responsible for leading incident response efforts and reporting status to stakeholders and leadership.</li><li>Maintain an understanding of the current vulnerabilities, response, and mitigation strategies used in cyber security operations</li><li>Produce reports and briefs to provide an accurate depiction of the current threat landscape and associated risk.</li><li>Investigate cyber activity targeting customer information and its infrastructure</li><li>Providing mentorship and technical education to CIRT personnel</li><li>Liaison with other government cyber threat analysis entities, such as inter-agency Cyber Threat Working Groups</li><li>Analyze and report cyber threats as well as assist in deterring, identifying, monitoring, investigating and analyzing computer network intrusions</li><li>Meet and maintain customer required Information Assurance training compliance</li></ul><br>
+<b>
+Required Skills</b>:<br>
+<ul><li>Must be a U.S. Citizen</li><li>Must have active/current Top-Secret clearance with the ability to obtain a TS/SCI.</li><li>Must be able to receive DHS suitability prior to starting employment.</li><li>6+ years of directly relevant experience</li><li>Current experience with AWS security solutions and cloud security investigations</li><li>Current incident response experience using Splunk</li><li>Previous experience with penetration testing (red/blue/purple teams)</li><li>Previous security investigation experience (OS Forensics, Network Forensics, Web Application Forensics, Cloud Forensics, etc.)</li><li>Experience as a Linux/Windows/Network administrator</li><li>Must be able to work collaboratively across agencies and physical locations</li><li>Excellent oral and verbal communication</li></ul><br>
+<b>
+Desired Skills</b>:<br>
+<ul><li>Hands-on experience in the detection, response, mitigation, and/or reporting of cyber threats affecting client networks</li><li>Experience in computer intrusion analysis and incident response</li><li>Experience with computer network surveillance/monitoring</li><li>Knowledge and understanding of network protocols, network devices, multiple operating systems, and secure architectures</li><li>Familiarity with computer evidence seizure, computer forensic analysis, and data recovery</li><li>Experience with System log analysis</li><li>Current experience with network intrusion detection and response operations (Protect, Defend, Respond and Sustain methodology)</li><li>Current experience with cyber threats and the associated tactics, techniques, and procedures used to infiltrate computer networks</li><li>Current experience with AWS security solutions and cloud security investigations</li></ul><br>
+<b>
+Desired Certifications</b>:<br>
+<ul><li>SANS GCIH or equivalent certification</li><li>SANS GCFA, GCFR, or equivalent certifications)</li><li>Splunk Power User or higher</li><li>AWS Certified Practitioner or higher</li><li>Certified Information Systems Security Professional (CISSP)</li><li>Cisco Certified Network Professional (CCNP), Cisco Certified Security Professional (CCSP) or similar certification required.</li></ul><br>
+<b>
+Required Education</b>:<br>
+A bachelor&rsquo;s degree in cybersecurity, security operations, computer science, a related specialized area; or High School Diploma and 14 years of directly relevant experience</div></div>"
+https://www.indeed.com/viewjob?jk=129ac1e988e4b794,indeed,IT Security Specialist,ScriptPro LLC,https://www.indeed.com/cmp/Scriptpro-1,"Kansas City, MO, USA",,2024-01-12,,,,,True,0.0,,,"<div><p><b>Job Title</b> Cyber Security Analyst</p><p><b>
+Job Location: </b>Remote</p><p><b>
+Job Summary:</b></p><p>
+The Cyber Security Analyst is responsible for a variety of tasks related to the general compliance and security of all systems to help identify risks to the confidentiality, integrity, and availability of ScriptPro products and services. This includes maintaining compliance with applicable regulatory standards and End of Life (EOL) deadlines. This is a position that requires a self-starter and a fast learner who can quickly understand ScriptPro&rsquo;s products and environments.</p><p>
+As part of the Information Security Team, the successful candidate will identify, articulate, and drive to completion gaps in the Company&rsquo;s product security and compliance initiatives based on the results of ongoing internal audits and threat hunting. In addition, you will be expected to contribute to operational requests, incident response process, architecture review, vulnerability scanning and security testing processes.</p><p><b>
+Reports To: </b>Manager, Security Operations</p><p><b>
+Schedule: </b>Generally, Monday through Friday, 8am-5pm CST. This is a remote position. Regular and punctual attendance is an essential function of every job at ScriptPro.</p><p><b>
+Scope of the Role:</b></p><ul><li>
+Monitor &amp; audit environments, systems, servers, firewalls, users and applications</li><li>
+Determine versioning &amp; compliance levels based on internal and external drivers</li><li>
+Identify gaps in security operations/systems management and develop mitigation strategies</li><li>
+Conduct threat research applicable to our environment and products</li><li>
+Review and conduct analysis on event logging systems, firewalls, anti-virus and end point detection systems, as needed.</li><li>
+Monitor and stay current on industry trends related to our environment and products</li><li>
+Run security testing via Static Application Security Testing (SAST), Dynamic Application Security testing (DAST) and Software Composition Analysis (SCA) tools</li><li>
+Run vulnerability scans via Qualys and Tenable</li><li>
+Enter findings into Team Foundation Server (TFS), Governance Risk Management and Compliance (GRC), Information Systems or Computer Science support systems, as applicable</li><li>
+Assist other ScriptPro teams in reporting key findings that impact other departments</li><li>
+Assist in Incident Response Planning and execution</li><li>
+Act as an advisor on risk and/or compliance related projects</li></ul><p><b>
+Education and Experience Requirements:</b></p><ul><li>
+Minimum of 2+ years combined experience in any of the following: Information Security Architecture, Data Analysis, Intelligence Analysis, System &amp; Security Auditing, Penetration Testing, Microsoft Server OS and SQL Database management tools and configuration</li><li>
+Bachelor&rsquo;s degree in computer science, business or relative discipline, or equivalent experience</li><li>
+Able to obtain Industry certifications &ndash; Security+, CySA+ or equivalent</li><li>
+Proficient with Microsoft Windows technology, Microsoft Office Suite, and Microsoft Teams</li><li>
+Proven ability to multi-task while planning and working to a deadline</li><li>
+Must be able to obtain Department of Defense security clearance, post-date of hire. See Standard Form 86 at gsa.gov to preview requirements.</li></ul><p><b>
+Preferred Skills</b></p><ul><li>
+Knowledge of ScriptPro products and processes</li><li>
+Knowledge of various Cyber Security Frameworks, Payment Card Industry (PCI) and HIPAA regulations</li><li>
+Knowledge of the software development lifecycle process</li><li>
+Government/Department of Defense IT experience or clearance</li></ul><p><b>
+Attributes Desired:</b></p><ul><li>
+Approach your work with a collaborative spirit</li><li>
+Strong interpersonal communication skills</li><li>
+Organized, independent self-starter</li><li>
+Strong analytical problem solving skills</li></ul><p></p><p><br>
+ At this time, ScriptPro is not sponsoring H1B visas for this position.</p><p></p><p><br>
+ ScriptPro is an Equal Opportunity Employer</p><p></p><p><br>
+ Please visit www.scriptpro.com to learn more about the mission of our company.</p></div>"
+https://www.indeed.com/viewjob?jk=5905d9a8345dce71,indeed,Cybersecurity Analyst,Delviom LLC,https://www.indeed.com/cmp/Delviom,"Remote, USA",contract,2024-01-12,hourly,50.0,55.0,USD,True,0.0,,,"<p><b>Title : Cybersecurity Risk Analyst</b><br/><b>Location : Fully Remote (must reside in EST or CST time zone)</b><br/><b>Type : Contract-to-hire</b></p><p><b>Overview</b>:</p><p>Our client, a global leader in applied safety science, is looking for a Cybersecurity Analyst will to help identify, analyze, report, and influence the management of information risks across the organization. As a part of the Global Cybersecurity Risk Management team, they will also be accountable for helping ensure that the organization's vendor ecosystem is properly evaluated, assessed, and managed to minimize risk exposure and risk impacts to the business.</p><p>This includes anticipating, identifying, and mitigating risks associated with operational and third-party providers. Vendor risk management will include a vendor's information security practices, government, legal and industry compliance. In addition, will help with compiling data and completing documentation related to operational and third-party risks.</p><p><b>Responsibilities </b>:</p><ul><li>Assist with focused information risk assessments of existing or new services and technologies, along with business counterparts.</li></ul><ul><li>Communicates risk assessment findings to team owners and custodians of information risk &quot;business partners, or information governance teams and information security teams.</li><li>Provides consultative advice to information governance or security teams that enables them to suggest informed risk management decisions.</li><li>Helps to identify and facilitate the implementation of appropriate controls to effectively manage information risks as needed.</li><li>Helping to identify opportunities to improve risk posture, developing solutions for remediating or mitigating risks and assessing the residual risk.</li><li>Able to coordinate other risk management activities (e.g., Exception Management Process, Vulnerabilities Management, etc., with relevant stakeholders.</li></ul><p><b>Required Skills:</b></p><ul><li>BS or MA in Business, Computer Science, Information Security, or a related field</li><li>2+ years of work experience in information security, especially in an information senior cybersecurity risk role</li><li>2+ years of experience in managing risk and compliance issues, or similar experience managing applications, projects or systems that require identification, evaluation, and remediation of risk</li><li>Experience gathering and interpreting risks and associated impacts in the context of financial and operational concerns</li><li>Strong understanding of complex vendor risk-related issues through demonstrated experience managing vendor relationships, information security or regulatory compliance programs, and audits</li><li>4+ years of experience with regulatory compliance and information security management frameworks (e.g., International Organization for Standardization [IS0] 27000, COBIT, National Institute of Standards and Technology [NIST] 800)</li></ul><ul><li>Certified Information Systems Security Professional (CISSP), Certified Information Security Manager (CISM), and/or Certified Information Systems Auditor (CISA) a plus</li></ul><p>Job Type: Contract</p><p>Salary: $50.00 - $55.00 per hour</p><p>Experience:</p><ul><li>Federal Project: 3 years (Required)</li><li>Risk management: 6 years (Required)</li><li>Cybersecurity: 6 years (Preferred)</li><li>Information security: 7 years (Preferred)</li><li>Compliance management: 6 years (Preferred)</li><li>Regulatory Compliance: 6 years (Preferred)</li></ul><p>License/Certification:</p><ul><li>CISSP (Preferred)</li><li>CISM (Preferred)</li><li>CISA (Preferred)</li></ul><p>Work Location: Remote</p>"
+https://www.indeed.com/viewjob?jk=ab358c909cfa170e,indeed,Cybersecurity Analyst,Mississippi State Personnel Board,https://www.indeed.com/cmp/State-of-Mississippi,"MS, USA",fulltime,2024-01-11,yearly,65779.54,112236.33,USD,False,0.0,,,"<div><div><div><h2 class=""jobSectionHeader""><b>Characteristics of Work</b></h2></div>
+<div><p>See MSPB Careers for information regarding this classifications</p></div>
+<div><h2 class=""jobSectionHeader""><b>Minimum Qualifications</b></h2></div>
+<div><p>Typically requires a Bachelor&rsquo;s Degree and 5-8 + years of IT experience with emphasis in security and compliance.</p></div></div></div><p></p>"
+https://www.indeed.com/viewjob?jk=68f8dd0e89889fb2,indeed,Risk Analyst,Reliabilityfirst Corporation,https://www.indeed.com/cmp/Reliabilityfirst,"Remote, USA",fulltime,2024-01-11,,,,,True,0.0,,,"<div><p><b>About RF:</b></p><p>
+ReliabilityFirst Corporation is a regulator focused on the reliability and security of the electric grid. ReliabilityFirst&rsquo;s mission is to preserve and enhance the reliability, security, and resilience of the Bulk Power System across 13 states and the District of Columbia. ReliabilityFirst is uniquely positioned to work closely with transmission, generation, and other power companies as well as the federal government to help identify and ensure the mitigation of operational risks and physical and cyber security threats to the electric grid.</p><p></p><p><b><br>
+Purpose of Position:</b></p><p>
+The Security Risk Analyst will work with ReliabilityFirst&rsquo;s security professionals and the business to produce security documentation, plans, and procedures that are of vital importance to the organization. The ideal candidate is a technical writer who is eager to grow as a security professional and learn the technical ropes necessary to grow in their career.</p><p>
+It is also desirable for this position to provide thought leadership and support across the enterprise to improve the security posture of ReliabilityFirst overall. The Security Risk Analyst will also measure the effectiveness of security metrics to report up to all levels of leadership and maintain open communications with internal and external peers.</p><p></p><p><b><br>
+Key Responsibilities:</b></p><p></p><ul><li><p><br>
+Identify, analyze, and document IT Security policies and processes.</p></li><li><p>
+Evaluate and quantify enterprise security risks.</p></li><li><p>
+Assess security control effectiveness.</p></li><li><p>
+Participate in relevant industry working groups and collaborate with peer organizations.</p></li><li><p>
+Willing to travel up to 5-10 %.</p></li></ul><p></p><p><b><br>
+Qualifications:</b></p><p></p><ul><li><p><br>
+BS or MA in Business, Computer Science, Information Security, or a related field</p></li><li><p>
+3+ years of work experience in information security, especially in an information risk analysis role</p></li><li><p>
+Demonstrated understanding of best practices in cyber / physical security encompassing strategies, policies, principles, procedures, and standards</p></li><li><p>
+Ability to identify and assess the severity and potential impact of risks and communicate risk assessment findings to risk owners outside the cybersecurity program in a way that consistently drives objective, fact-based decisions that optimize the trade-off between risk mitigation and business performance.</p></li></ul><p></p><p><b><br>
+Desirable:</b></p><p></p><ul><li><p><br>
+Regulatory experience.</p></li><li><p>
+The potential to understand organizational mission, values, goals and consistently apply this knowledge.</p></li><li><p>
+An ability to work on several tasks simultaneously and pay attention to sources of information from inside and outside one&rsquo;s network within an organization.</p></li><li><p>
+The capacity to to apply original and innovative thinking to produce new ideas.</p></li><li><p>
+An understanding of business needs and commitment to delivering high-quality, prompt and efficient service to the business.</p></li><li><p>
+An ability to effectively influence others to modify their opinions, plans or behaviors.</p></li><li><p>
+Excellent prioritization capabilities, with an aptitude for breaking down work into manageable parts, effectively assessing the priority and time required to complete each part.</p></li></ul><p></p><p><b><br>
+Equal Opportunity Employer Statement:</b></p><p>
+ReliabilityFirst is an equal opportunity employer and is committed to providing equal opportunities to all employees and applicants in accordance with local and federal laws. ReliabilityFirst's mission is to preserve and enhance bulk power system reliability and security. This mission cannot be accomplished without a diverse and inclusive staff - one that at all levels feels empowered, valued, respected, and engaged.</p><p>
+Learn more at: Diversity, Equity, &amp; Inclusion at RF (rfirst.org)</p></div>"
+https://www.indeed.com/viewjob?jk=7ee56d836eba4648,indeed,Network Analyst,Graham Technologies,https://www.indeed.com/cmp/Graham-Technologies,"Fort Meade, MD, USA",fulltime,2023-12-13,yearly,110000.0,230000.0,USD,False,0.0,,,"<div><p><b>Your role:</b></p><p>
+Graham Technologies (GTECH) is seeking a Computer Network Defense Analyst to join our fast-growing team of over 70+ members. Graham, an organization driven by innovation and transformative solutions, seeks a Computer Network Defense Analyst. We are looking for Computer Network Defense Analyst to use information collected from various sources to identify and analyze vulnerabilities and report potential or actual events.
+</p><p><b>What You'll Get to Do:</b></p><ul><li>
+Use information collected from a variety of sources (e.g., intrusion detection systems, firewalls, network traffic logs, and host system logs) to identify potential vulnerabilities, respond to cyber events that occur, and defend against events that might occur.
+</li><li>Help develop mitigations to strengthen network defenses and protect against attacks on network infrastructure devices or systems.</li></ul><p><b>
+Required Qualifications:</b></p><ul><li>
+Active Top Secret (TS) clearance with SCI eligibility and a Polygraph</li><li>
+Associate degree or Higher in Cybersecurity, Computer Science or related fields.
+</li><li>2+ years of experience in computer or information systems design/development</li><li>
+Must have working experience in network or system administration</li><li>
+Working experience in the following IT disciplines:<ul><li>
+computer or information systems design/development</li><li>
+programming</li><li>
+information/cyber/network security</li><li>
+vulnerability analysis</li><li>
+penetration testing</li><li>
+computer forensics</li><li>
+information assurance</li><li>
+systems engineering</li></ul></li></ul><p><b>
+Preferred Qualifications:
+</b></p><ul><li>Completion of military training in a relevant area such as JCAC (Joint Cyber Analysis Course), Undergraduate Cyber Training (UCT), Network Warfare Bridge Course (NWBC)/Intermediate Network Warfare Training (INWT), Cyber Defense Operations will be considered toward relevant experience requirement.</li></ul><p><b>
+Compensation:</b></p><p>
+At GTech, we believe in treating every person the way we want to be treated - fairly. Our compensation package ensures everyone at GTech is given equal pay for equal work - regardless of race, ethnicity, gender, sexual orientation, disability, religion, age, nationality, or even negotiation skills!</p><p>
+Most IT companies can probably offer many of the same services, but what sets us apart from the others is truly our people! We care about our employees and show it often with sincere appreciation and acknowledgment of not only the final work products but the little steps taken along the way! In addition, our generous benefits package helps support our team members to live well and prosper.</p><p>
+Here are just a few highlights:</p><ul><li>
+Four Week's Accrued PTO First Year</li><li>
+Eleven Paid Federal Holidays</li><li>
+Health, Dental, Vision, and Life Insurance</li><li>
+401(k) Plan with Annual Employer Contributions</li><li>
+Flexible Schedules</li><li>
+Reimbursements for Continued Education and Training</li></ul><p><b>
+Why Graham Technologies?</b></p><p>
+Our Core Values say it all!</p><ul><li>
+Value our Customers</li><li>
+Care about our Employees</li><li>
+Passionate about Innovation</li><li>
+Believe in Strong Work Ethic</li><li>
+Rely on Teamwork</li><li>
+Integrity Matters</li></ul><p>
+Founded in 2007, GTech is a consulting services firm zealous about providing the best solutions to address our client's needs and maximize the value of their investments. One of the ways we do this is by providing exceptional employees for our clients - whose range of expertise expands the entire IT industry! We've cultivated a family of individuals where integrity, commitment, and reliability are etched into the heart of our delivery teams.</p><p>
+In addition, we are equally zealous about caring for our employees - the lifeblood of our business! We've purposefully created a culture that is friendly, family-oriented, and all-inclusive. Our team members are encouraged to &quot;have a life,&quot; both in and out of the office, through flexible schedules (where available), continuing education, and support to pursue their passions!</p></div>"
+https://www.indeed.com/viewjob?jk=ff4542b17a18047f,indeed,Network Analyst,"Integrity Technology Consultants, Inc.","https://www.indeed.com/cmp/Integrity-Technology-Consultants,-Inc.","Fort Meade, MD, USA",,2023-09-12,,,,,False,0.0,,,"<div>Description:
+<p>
+ITC is a Woman Owned Small Business delivering exceptional consultation to the U.S. Government in Systems/Software Engineering, Cybersecurity Solutions, Mission Operations/INTEL Analysis, and Management Services in order to enable our customers to solve the most challenging problems. With continued growth comes opportunity, and we are currently searching for a Top-Secret SCI with polygraph-cleared Mid-Level Digital Network Exploitation Analyst.</p><p><b>
+Responsibilities:</b></p><p>
+The Computer Network Defense Analyst will use information collected from a variety of computer network defense resources (including, but not limited to, intrusion detection system alerts, firewall and network traffic logs, and host system logs) to identify, analyze, and report events that occur or might occur within their environment. Relevant experience must be in computer or information systems design/development, programming, information/cyber/network security, vulnerability analysis, penetration testing, computer forensics, information assurance , and/or systems engineering. Additionally, must have experience in netowrk or system administation. If not credited toward education requirements, completion of military training in a relevant area such as JCAC (Joint Cyber Analysis Course), Undgergraduate Cyber Training (UCT), Network Warfare Bridge Course (NWBC)/Intermediate Network Warfare Training (INWT), Cyber Defense Operations will be considered towards relevant experience requirement (i.e., 20-24 week courses will count as 6 months of experience, 10-14 weeks will count as 3 months of experience).</p>
+Requirements:
+<ul><li>With an Associate's Degree, at least 4 years demonstrated experience related to job description.</li><li>
+With a Bachelor's Degree, at least 2 years demonstrated experience related to job description.</li></ul><p>
+ITC is an Equal Opportunity employer. Qualified applicants or employees will receive consideration for employment without regard to race, color, religion, ethnic or national origin, ancestry, age, sex, sexual orientation, gender identity, pregnancy (including childbirth or related condition) citizenship, familial status, mental or physical disability status, veteran status, genetic information, other non-disqualifying disability, or any other characteristic protected by law.</p></div>"
+https://www.indeed.com/viewjob?jk=52f7d1bf1b45e921,indeed,Digital Analyst,"Integrity Technology Consultants, Inc.","https://www.indeed.com/cmp/Integrity-Technology-Consultants,-Inc.","Fort Meade, MD, USA",,2023-09-12,,,,,False,0.0,,,"<div>Description:
+<p>
+ITC is a Woman Owned Small Business delivering exceptional consultation to the U.S. Government in Systems/Software Engineering, Cybersecurity Solutions, Mission Operations/INTEL Analysis, and Management Services in order to enable our customers to solve the most challenging problems. With continued growth comes opportunity, and we are currently searching for a Top-Secret SCI with polygraph-cleared Mid-Level Digital Network Exploitation Analyst.</p><p><b>
+Responsibilities:</b></p><p>
+The Digital Network Exploitation Analyst must have Relevant experience must be in computer or information systems design/development/analysis. In addition, it may also include engineering hardware and/or software, programming, computer/network security, vulnerability analysis, penetration testing, computer forensics, information assurance, systems engineering, and/or network and systems administration. Completion of military training in a relevant area such as JCAC (Joint Cyber Analysis Course) will be considered towards the relevant experience requirement (i.e., 24-week JCAC course will count as 6 months of experience).</p>
+Requirements:
+<ul><li>With an Associate's Degree, at least 4 years demonstrated experience related to job description.</li><li>
+With a Bachelor's Degree, at least 2 years demonstrated experience related to job description.</li></ul><p>
+ITC is an Equal Opportunity employer. Qualified applicants or employees will receive consideration for employment without regard to race, color, religion, ethnic or national origin, ancestry, age, sex, sexual orientation, gender identity, pregnancy (including childbirth or related condition) citizenship, familial status, mental or physical disability status, veteran status, genetic information, other non-disqualifying disability, or any other characteristic protected by law.</p></div>"
+https://www.indeed.com/viewjob?jk=9ce2252c55d4cf17,indeed,Information Security Analyst,"Proxops, LLC","https://www.indeed.com/cmp/Proxops,-LLC","Merritt Island, FL, USA",fulltime,2022-02-24,yearly,60000.0,77000.0,USD,False,0.0,,,"<div><p>Work as an IT Security Compliance Analyst supporting the Test &amp; Operations Support Contract on Kennedy Space Center. Primary function will be maintaing NIST 800-53 Security Plans for NASA. Duties include implementing NIST controls, maintaining hardware &amp; software inventories, generating supporting documentation (contingency plan, configuration management plan, risk assessment report) &amp; coordinating with the system administration team to ensure responsilbe systems are maintained in compliance of how the security plan is documented. Any deviations from NASA requirements requires risk tracking or acceptance paperwork. Additional duties include working with IT Security tools to monitor &amp; report vulnerability compliance (BugFix &amp; Bugzilla).</p><p>
+Bachelor of Science degree in Computer or System Science, Information Technology, or a related discipline from an accredited college or university or 5 year experience in IT Security - IT certification a plus.</p><p>
+MUST BE US CITIZEN OR LEGAL PERMANENT RESIDENT/GREEN CARD HOLDER OF THE UNITED STATES.</p><ul><li>General understanding of computing, networking protocols &amp; vulnerability management.</li><li>Proficient with Microsoft Office products (MS Office Word, Power Point, Excel).</li><li>Ability to work independently &amp; consistently meet deadlines.</li></ul><p>
+START DATE 3/21/2022</p><p>
+Job Types: Full-time, Contract</p><p>
+Pay: $60,000.00 - $77,000.00 per year</p><p>
+Benefits:</p><ul><li>
+401(k)</li><li>
+401(k) matching</li><li>
+Dental insurance</li><li>
+Employee assistance program</li><li>
+Flexible spending account</li><li>
+Health insurance</li><li>
+Health savings account</li><li>
+Life insurance</li><li>
+Paid time off</li><li>
+Relocation assistance</li><li>
+Retirement plan</li><li>
+Tuition reimbursement</li><li>
+Vision insurance</li></ul><p></p><p><br>
+Schedule:</p><ul><li>
+Monday to Friday</li></ul></div><p></p>"
+https://www.linkedin.com/jobs/view/3828080601,linkedin,Network Security Engineer,Eden Scott,https://uk.linkedin.com/company/eden-scott,"Glasgow, Scotland, UK",,2024-02-12,,45000.0,52000.0,£,,,Actively Hiring,,
+https://www.linkedin.com/jobs/view/3828038335,linkedin,Windows Endpoint Infrastructure / Cyber Security Engineer,Resource Solutions,https://uk.linkedin.com/company/resource-solutions,"Glasgow, Scotland, UK",,2024-02-12,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825812018,linkedin,Windows Endpoint Infrastructure / Cyber Security Engineer,Jobs via eFinancialCareers,https://uk.linkedin.com/company/jobs-on-efinancialcareers,"Glasgow, Scotland, UK",,2024-02-12,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3828022463,linkedin,Security Solutions Architect,ClickJobs.io,https://uk.linkedin.com/company/clickjobsio,"Glasgow, Scotland, UK",,2024-02-12,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3828190066,linkedin,Enterprise Security Architect,The Weir Group PLC,https://uk.linkedin.com/company/the-weir-group,"Glasgow, Scotland, UK",,2024-02-12,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3826042094,linkedin,SOC Analyst,ClickJobs.io,https://uk.linkedin.com/company/clickjobsio,"Glasgow, Scotland, UK",,2024-02-09,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825768338,linkedin,Cyber Security Analyst,Social Security Scotland,https://uk.linkedin.com/company/social-security-scotland,"Glasgow, Scotland, UK",,2024-02-08,,31140.0,34177.0,£,,,,,
+https://www.linkedin.com/jobs/view/3824848206,linkedin,Security Architect/Engineer,Broster Buchanan,https://uk.linkedin.com/company/broster-buchanan,"Glasgow, Scotland, UK",,2024-02-08,,60000.0,80000.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825769626,linkedin,Senior Cyber Security Analyst,Social Security Scotland,https://uk.linkedin.com/company/social-security-scotland,"Glasgow, Scotland, UK",,2024-02-08,,35867.0,41013.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3824431439,linkedin,Cyber Security - Vulnerability Management Lead,ClickJobs.io,https://uk.linkedin.com/company/clickjobsio,"Glasgow, Scotland, UK",,2024-02-08,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825941526,linkedin,Apprentice Fire & Security Engineer,North,https://uk.linkedin.com/company/north-tech1,"Glasgow, Scotland, UK",,2024-02-08,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3819987669,linkedin,Cyber Security Analyst,Sapphire,https://uk.linkedin.com/company/sapphire,"Glasgow, Scotland, UK",,2024-02-07,,,,,,,Actively Hiring,,
+https://www.linkedin.com/jobs/view/3822817153,linkedin,Business Security Analyst,AXA UK,https://uk.linkedin.com/company/axa-uk,"Glasgow, Scotland, UK",,2024-02-07,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3819981992,linkedin,Fire & Security Engineer,CBW Staffing Solutions,https://uk.linkedin.com/company/cbw-staffing-solutions,"Glasgow, Scotland, UK",,2024-02-07,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3824328796,linkedin,Security Architect,BAE Systems,https://uk.linkedin.com/company/bae-systems,"Glasgow, Scotland, UK",,2024-02-07,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825223767,linkedin,Fire & Security Sales & Design Engineer,Emtec Group,https://uk.linkedin.com/company/emtec-group,"Glasgow, Scotland, UK",,2024-02-07,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3823471938,linkedin,HEO Cyber Security Engineer,"Foreign, Commonwealth and Development Office",https://uk.linkedin.com/company/foreign-commonwealth-and-development-office,"East Kilbride, Scotland, UK",,2024-02-06,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3823825619,linkedin,Telecoms or Security Engineer,Realise Recruitment,https://uk.linkedin.com/company/realise-recruitment,"Wishaw, Scotland, UK",,2024-02-06,,25000.0,35000.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3823162261,linkedin,Security Architect/Engineer - OT,Energy Jobline,https://uk.linkedin.com/company/energy-jobline,"Glasgow, Scotland, UK",,2024-02-06,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3823823765,linkedin,Installation Engineer [Fire &amp;amp; Security Systems,First Military Recruitment,https://uk.linkedin.com/company/first-military-recruitment,"Glasgow, Scotland, UK",,2024-02-06,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3822290479,linkedin,Security Assurance Analyst,Henderson Scott,https://uk.linkedin.com/company/hendersonscott,"Glasgow, Scotland, UK",,2024-02-05,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3818301156,linkedin,SOC Analyst,Verint,https://www.linkedin.com/company/verint,"Glasgow, Scotland, UK",,2024-02-05,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3823020621,linkedin,Telecoms or Security Engineer,Energy Jobline,https://uk.linkedin.com/company/energy-jobline,"Wishaw, Scotland, UK",,2024-02-05,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3814466282,linkedin,Security Architect/Engineer,Jacobs,https://www.linkedin.com/company/jacobs,"Glasgow, Scotland, UK",,2024-02-03,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3822006867,linkedin,IT Security / Cyber Engineer,Socs Retail Solutions Inc.,https://ca.linkedin.com/company/socs-retail-solutions-inc.,"Glasgow, Scotland, UK",,2024-02-02,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3820721847,linkedin,Fire &amp;amp; Security Engineer,First Military Recruitment,https://uk.linkedin.com/company/first-military-recruitment,"Glasgow, Scotland, UK",,2024-02-02,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3819551647,linkedin,Security Analyst,Student Loans Company,https://uk.linkedin.com/company/student-loans-company,"Glasgow, Scotland, UK",,2024-02-01,,33500.0,39500.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3819741597,linkedin,Senior Security Analyst,Student Loans Company,https://uk.linkedin.com/company/student-loans-company,"Glasgow City, Scotland, UK",,2024-02-01,,37400.0,52900.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3819708484,linkedin,Senior Security Analyst,Student Loans Company,https://uk.linkedin.com/company/student-loans-company,"Glasgow, Scotland, UK",,2024-02-01,,37400.0,52900.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3802259236,linkedin,Scottish Cyber Security Professional Degree Apprentice SCQF Level 10 - Glasgow,BT Group,https://uk.linkedin.com/company/bt,"Glasgow, Scotland, UK",,2024-02-01,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3819171532,linkedin,Security Architect/Engineer - OT,Matchtech,https://uk.linkedin.com/company/matchtech,"Glasgow, Scotland, UK",,2024-02-01,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825049200,linkedin,Cyber Security Trainee,ITonlinelearning Recruitment,https://uk.linkedin.com/company/itonlinelearning-recruitment,"Glasgow, Scotland, UK",,2024-02-01,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3813636715,linkedin,Cyber Security Analyst,The Scottish Government,https://uk.linkedin.com/company/thescottishgovernment,"Glasgow, Scotland, UK",,2024-01-30,,,,,,,,,
+https://www.linkedin.com/jobs/view/3813640151,linkedin,Senior Cyber Security Analyst,The Scottish Government,https://uk.linkedin.com/company/thescottishgovernment,"Glasgow, Scotland, UK",,2024-01-30,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3817089461,linkedin,Fire And Security Engineer,We Build Recruitment,https://uk.linkedin.com/company/we-build-recruitment,"Glasgow, Scotland, UK",,2024-01-29,,35000.0,38000.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3814461814,linkedin,Security Architect/Engineer,Jacobs,https://www.linkedin.com/company/jacobs,"Glasgow, Scotland, UK",,2024-01-28,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3815507712,linkedin,Cyber Security Vulnerability Management Analyst,Lorien,https://uk.linkedin.com/company/lorien,"Glasgow, Scotland, UK",,2024-01-26,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3814860741,linkedin,OT Cyber Security Engineer,Matchtech,https://uk.linkedin.com/company/matchtech,"Glasgow, Scotland, UK",,2024-01-25,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3816817136,linkedin,SOC Analyst - Financial Services,Hydrogen Group,https://uk.linkedin.com/company/hydrogen-group,"Glasgow, Scotland, UK",,2024-01-25,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3813578787,linkedin,Security Engineer - Ubuntu,Canonical,https://uk.linkedin.com/company/canonical,"Glasgow, Scotland, UK",,2024-01-25,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3816819060,linkedin,IAM Goverence analyst,Hydrogen Group,https://uk.linkedin.com/company/hydrogen-group,"Glasgow, Scotland, UK",,2024-01-25,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3809638920,linkedin,Information Security Analyst,William Grant & Sons,https://www.linkedin.com/company/william-grant-&-sons,"Cumbernauld, Scotland, UK",,2024-01-24,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3809674071,linkedin,Security Operations Analyst,William Grant & Sons,https://www.linkedin.com/company/william-grant-&-sons,"Cumbernauld, Scotland, UK",,2024-01-24,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3809679847,linkedin,Information Security Specialist,William Grant & Sons,https://www.linkedin.com/company/william-grant-&-sons,"Cumbernauld, Scotland, UK",,2024-01-24,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3809693286,linkedin,Operations Information Security Specialist,William Grant & Sons,https://www.linkedin.com/company/william-grant-&-sons,"Cumbernauld, Scotland, UK",,2024-01-24,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3813980649,linkedin,Security Design Engineer,HP4 Recruitment Ltd,https://uk.linkedin.com/company/hp4_recruitment_ltd,"Glasgow, Scotland, UK",,2024-01-24,,325.0,350.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3811852509,linkedin,Security Engineer Azure,"ISC Plastic Parts, S.L.",https://es.linkedin.com/company/isc-s-l-,"Glasgow, Scotland, UK",,2024-01-23,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3811407191,linkedin,SOC Analyst (T2),"ISC Plastic Parts, S.L.",https://es.linkedin.com/company/isc-s-l-,"Glasgow, Scotland, UK",,2024-01-22,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3811089165,linkedin,Information Security Auditor,BSI,https://uk.linkedin.com/company/bsi,"Glasgow, Scotland, UK",,2024-01-22,,60000.0,60000.0,£,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3811627573,linkedin,Cyber Security Graduate / Degree Apprentice - Energy Networks,ScottishPower,https://uk.linkedin.com/company/scottish-power,"Glasgow, Scotland, UK",,2024-01-22,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3806425441,linkedin,Trainee IT Security Analyst - No Experience Required,IT Career Switch,https://uk.linkedin.com/company/it-career-switch,"Glasgow, Scotland, UK",,2024-01-19,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3804820193,linkedin,Fire & Security Engineer,First Military Recruitment,https://uk.linkedin.com/company/first-military-recruitment,"Glasgow, Scotland, UK",,2024-01-19,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3814461857,linkedin,Senior Cyber Security Professional,Jacobs,https://www.linkedin.com/company/jacobs,"Glasgow, Scotland, UK",,2024-01-15,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3802226510,linkedin,Installation Engineer [Fire & Security Systems,Energy Jobline,https://uk.linkedin.com/company/energy-jobline,"Glasgow, Scotland, UK",,2024-01-10,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3801580329,linkedin,Staff Security Operations Engineer,Canonical,https://uk.linkedin.com/company/canonical,"Glasgow, Scotland, UK",,2024-01-09,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3802187408,linkedin,Trainee Cyber Security Analyst - No Experience Required,IT Career Switch,https://uk.linkedin.com/company/it-career-switch,"Glasgow, Scotland, UK",,2024-01-09,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3816336140,linkedin,Cyber Operations Analyst,Hays,https://uk.linkedin.com/company/hays,"Glasgow, Scotland, UK",,2024-01-05,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3783553069,linkedin,Fire and Security Service Engineer,Energy Jobline,https://uk.linkedin.com/company/energy-jobline,"Glasgow, Scotland, UK",,2023-12-13,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3772920160,linkedin,Multi Skilled Engineer (Fire & Security),Energy Jobline,https://uk.linkedin.com/company/energy-jobline,"Glasgow, Scotland, UK",,2023-11-29,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3792747483,linkedin,Cyber Security Trainee,Nuyew Tech Academy,https://uk.linkedin.com/company/nuyew,"Glasgow, Scotland, UK",,2023-11-29,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3765315510,linkedin,IT Security Engineer,MindPal,https://www.linkedin.com/company/mindpal.co,"Glasgow, Scotland, UK",,2023-11-14,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3829355392,linkedin,OT Cyber Security Engineer,Energy Jobline,https://uk.linkedin.com/company/energy-jobline,"Glasgow, Scotland, UK",,,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3829096475,linkedin,Cyber Security Engineer,ClickJobs.io,https://uk.linkedin.com/company/clickjobsio,"Glasgow, Scotland, UK",,,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3813094675,linkedin,Cloud Security Engineer,The Scottish Government,https://uk.linkedin.com/company/thescottishgovernment,"Glasgow, Scotland, UK",,,,,,,,,Be an early applicant,,
+https://www.linkedin.com/jobs/view/3825884986,linkedin,Lead Security Architect,The Scottish Government,https://uk.linkedin.com/company/thescottishgovernment,"Glasgow, Scotland, UK",,,,,,,,,Be an early applicant,,
